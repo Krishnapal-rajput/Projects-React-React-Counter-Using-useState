@@ -1,0 +1,14 @@
+section{
+    display: flex;
+    max-width: 1000px;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 4rem;
+}
+button{
+    cursor: pointer;
+}
+button img{
+    max-width: 40px;
+}
